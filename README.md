@@ -17,8 +17,11 @@
 ## 課程筆記區
 ## 作業連結區
 ### 作業一
--(https://github.com/lanternfishhhh/LATIA112-1/blob/main/hw01.ipynb)
+- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/hw01.ipynb)
 ### 作業二
 ### 作業三
+- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/app.ipynb)
+- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/IMG_5626.PNG)
+### 作業四
 ## 專題連結區
 
