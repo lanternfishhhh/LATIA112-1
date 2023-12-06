@@ -20,8 +20,8 @@
 - (https://github.com/lanternfishhhh/LATIA112-1/blob/main/hw01.ipynb)
 ### 作業二
 ### 作業三
-- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/app.ipynb)
-- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/IMG_5626.PNG)
+- (https://github.com/lanternfishhhh/LATIA112-1/blob/main/HW3/app.ipynb)
+- 
 ### 作業四
 ## 專題連結區
 
